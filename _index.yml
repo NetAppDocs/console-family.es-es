@@ -1,13 +1,13 @@
 ---
 product-family:
-  title: Documentación de la consola de NetApp
-  lead: La consola de NetApp proporciona una gestión centralizada de los servicios
-    de almacenamiento y datos en entornos locales y en la nube. Ofrece control unificado,
-    simplicidad operativa y gestión segura.  Explore la documentación por característica
+  title: Documentación de la NetApp Console
+  lead: La NetApp Console proporciona una gestión centralizada de los servicios de
+    almacenamiento y datos en entornos locales y en la nube. Ofrece control unificado,
+    simplicidad operativa y gestión segura. Explore la documentación por característica
     o utilice la búsqueda para encontrar contenido.
-  summary: La consola de NetApp proporciona una gestión centralizada de los servicios
+  summary: La NetApp Console proporciona una gestión centralizada de los servicios
     de almacenamiento y datos en entornos locales y en la nube. Ofrece control unificado,
-    simplicidad operativa y gestión segura.  Explore la documentación por característica
+    simplicidad operativa y gestión segura. Explore la documentación por característica
     o utilice la búsqueda para encontrar contenido.
   sidebarlinks:
   - title: Todo
@@ -35,10 +35,10 @@ product-family:
   - title: Configuración y administración
     icon: "./media/icon-admin.png"
     url: "../console-setup-admin/index.html"
-    summary: Aprenda cómo comenzar a utilizar la consola de NetApp , incluida la configuración
+    summary: Aprenda cómo comenzar a utilizar la NetApp Console, incluida la configuración
       de agentes y administración de acceso.
     tags: all, console, agents
-  - title: Servicios de datos de NetApp
+  - title: NetApp Data Services
     icon: "./media/icon-backup.png"
     url: "../data-services-family/index.html"
     summary: Proteja y asegure su infraestructura de almacenamiento.
@@ -52,7 +52,7 @@ product-family:
     icon: "./media/icon-docs.png"
     url: "../console-relnotes/index.html"
     summary: Descubra las novedades en toda la plataforma y los servicios de datos
-      de NetApp Console.
+      de NetApp Console .
     tags: all
   - title: API
     icon: "./media/icon-api.png"
@@ -70,7 +70,7 @@ product-family:
     url: "../active-iq/index.html"
     tags: all,health
     summary: Inteligencia práctica para una salud de almacenamiento óptima.
-  - title: Licencias y suscripciones
+  - title: Licenses and subscriptions
     icon: "./media/icon-digital-wallet.png"
     url: "../console-licenses-subscriptions/index.html"
     tags: all,console
