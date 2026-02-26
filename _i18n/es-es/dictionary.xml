@@ -151,7 +151,6 @@
   <block id="83f1d9ca1a0c4c2fc51a371c0d773f76" category="sidebar">Protection</block>
   <block id="8c4aa541ee911e8d80451ef8cc304806" category="sidebar">Almacenamiento</block>
   <block id="35084d885dea7b061e6894c1cf3036d9" category="sidebar">Cargas de trabajo</block>
-  <block id="06a16afdc09ef0c65510cc192e5feba7" category="sidebar">Aprenda cómo comenzar a utilizar la NetApp Console, incluida la configuración de agentes y administración de acceso.</block>
   <block id="cc58d3a9b2264c4fd8cb1d3f61b90bdc" category="sidebar">NetApp Data Services</block>
   <block id="a579a5e037931a607eeaff13af9a8d92" category="sidebar">Proteja y asegure su infraestructura de almacenamiento.</block>
   <block id="bfd15aa26ba0ced782240c4a8b7e517e" category="sidebar">Gestión de almacenamiento</block>
@@ -179,4 +178,7 @@
   <block id="7019a39846e9a2c7f7a80eaba91e4a41" category="paragraph"><block ref="7019a39846e9a2c7f7a80eaba91e4a41" category="inline-image-macro-rx" type="image"></block></block>
   <block id="1d593c3f7480ada9580d93cd753c3f93" category="paragraph">Esta es una identificación generada por el sistema que se asigna a su correo electrónico. En la página *Administración de NSS*, puede mostrar su correo electrónico desde el<block ref="5444f6f0c3983523c8933a1864b2b390" category="inline-image-macro-rx" type="image"></block> menú.</block>
   <block id="872eaae7deb6035c20f9bfe6deefd03d" category="list-text">Si alguna vez necesita actualizar sus tokens de credenciales de inicio de sesión, también hay una opción *Actualizar credenciales* en el<block ref="5444f6f0c3983523c8933a1864b2b390" category="inline-image-macro-rx" type="image"></block> menú.</block>
+  <block id="02703dffc7022f0e60a449dd217815b5" category="sidebar">Aprende cómo empezar a usar la NetApp Console, incluyendo la configuración de la gestión de accesos y los agentes de Console.</block>
+  <block id="9406fb3af0e8e2bf8446823785c0e069" category="sidebar">Data Infrastructure Insights</block>
+  <block id="04962f63ab8d912b0992dee20f5b6853" category="sidebar">Supervisa, soluciona problemas y optimiza todos tus recursos, incluidas tus nubes públicas y tus centros de datos privados.</block>
 </blocks>
