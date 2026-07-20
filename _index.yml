@@ -105,3 +105,8 @@ product-family:
     summary: Monitorear el impacto ambiental de los sistemas para alcanzar objetivos
       de sostenibilidad.
     tags: all,health
+  - title: Panel bien diseñado
+    url: https://docs.netapp.com/us-en/console-well-architected/index.html
+    summary: Mantén configuraciones de almacenamiento fiables, seguras, eficientes
+      y rentables basadas en las mejores prácticas.
+    tags: all,health,storage
